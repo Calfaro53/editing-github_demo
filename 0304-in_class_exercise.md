@@ -1,3 +1,6 @@
+Cynthia Alfaro
+March 4, 2015
+
 ## Modifiers: Limiting Words:
 
 1. Lasers only destroy the target, leaving the surrounding healthy tissue intact.
